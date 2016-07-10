@@ -1,1 +1,2 @@
 Modyfaing Tekstic3.txt - will create merge conflict
+Modifying in feature/add-text branch to create merge conflict
