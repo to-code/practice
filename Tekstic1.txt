@@ -1,3 +1,3 @@
-Novi deo teksta - feature-add-text
+Novi deo teksta - feature-add-text  --adding text to existing line to create a conflict
 
 Novi deo teksta - feature-add-text-seccond
