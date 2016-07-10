@@ -1,0 +1,1 @@
+Modyfaing Tekstic3.txt - will create merge conflict
