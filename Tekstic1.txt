@@ -2,3 +2,4 @@ Add first line
 Add seccond line
 Add third line -- add new commit
 Add fourth line
+Add line from branch name 'branch1'
